@@ -1,0 +1,16 @@
+/dist/
+/build/
+/out/
+/.vs/
+/.venv/
+/.cache/
+/models/
+/backups/
+/.publication/
+__pycache__/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.log
+*.bak
